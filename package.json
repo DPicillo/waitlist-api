@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "disposable-email-domains": "^1.0.62",
+    "dotenv": "^16.5.0",
+    "express": "^4.21.2",
+    "node-fetch": "^2.7.0"
+  }
+}
